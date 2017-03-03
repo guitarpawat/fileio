@@ -1,5 +1,5 @@
 # File input and output
-Testing copying file copying speed by using Java.
+Testing copying file copying speed by using Java by using HP Envy13.
 
 ## Tests
 Test by copying Big-Alice-in-Wonderland.txt sized 2,101,560 bytes.
