@@ -20,7 +20,7 @@ In Java, the char type size is two bytes, so
 * Copy a file using a byte of array of size 4KB = 2048 chars at a time.
 * Copy a file using a byte of array of size 64KB = 32768 chars at a time.
 
-The Big-Alice-in-Wonderland.txt has 2 053 280 characters and 48 280 line, so the average is 42.53 characters per line. Therefore :
-* Copy a file using BufferedReader and PrintWriter to copy lines of text = 42.53 chars at a time.
+The Big-Alice-in-Wonderland.txt has 2 053 280 characters and 48 280 lines, so the average is 42.53 characters per line. Therefore :
+* Copy a file using BufferedReader and PrintWriter to copy lines of text =~ 42.53 chars at a time.
 
 As you can see, when you copy more bytes at once, you will copy faster. 
